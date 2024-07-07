@@ -1,1 +1,3 @@
-print("test")
+test = 8
+print(test)
+
